@@ -4,4 +4,4 @@ Welcome to my portfolio! Here is a presentation of my portfolio. You can also vi
 
 ## About Me
 
-Unë jam një zhvillues i pasionuar me një sfond të fortë në zhvillimin e uebit. Më pëlqen të krijoj zgjidhje inovative dhe të kontribuoj në projekte emocionuese.
+I am a passionate developer with a strong background in web development. I love creating innovative solutions and contributing to exciting projects.
